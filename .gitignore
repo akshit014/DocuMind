@@ -1,0 +1,6 @@
+﻿API keys.txt
+*.zip
+.env
+data/
+__pycache__/
+*.pyc
